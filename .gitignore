@@ -1,0 +1,7 @@
+# /cursor/ga/.gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
